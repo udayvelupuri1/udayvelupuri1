@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udayvelupuri1
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning AWS.
 - 📫 How to reach me ...
 https://udaykumarv.vercel.app/
 <!---
